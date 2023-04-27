@@ -1,3 +1,5 @@
+# Splunk Universal Forwarder Installation for Windows
+
 "Modifying inputs.conf."
 Get-Content $InputFileSource | Out-File $InputFile
 
